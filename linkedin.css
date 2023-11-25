@@ -242,6 +242,7 @@ body {
 .feed__inputOptions {
   display: flex;
   justify-content: space-evenly;
+  padding-left: 20px;
 }
 
 .inputOption {
